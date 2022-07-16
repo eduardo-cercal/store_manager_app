@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "470209326641",
+    "project_id": "lojaflutter-4f31e",
+    "storage_bucket": "lojaflutter-4f31e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470209326641:android:1c910d5d31226f78f26f10",
+        "android_client_info": {
+          "package_name": "br.com.cercal.gerenteloja.gerente_loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470209326641-jb94ejmga6v74sr4stttlhv7k9juk9in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIWAuUsom1k0W0WIadv8yvG40GYPiPDZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470209326641-jb94ejmga6v74sr4stttlhv7k9juk9in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470209326641:android:c46d83633aab29cdf26f10",
+        "android_client_info": {
+          "package_name": "br.com.cercal.lojavirtual.loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470209326641-jb94ejmga6v74sr4stttlhv7k9juk9in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIWAuUsom1k0W0WIadv8yvG40GYPiPDZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470209326641-jb94ejmga6v74sr4stttlhv7k9juk9in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
